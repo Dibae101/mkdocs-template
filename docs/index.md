@@ -53,7 +53,7 @@ Control information posted or processed on publicly accessible information syste
 
 ##### Solutions Description
 Make sure cloud storages are not shared and have a strong password. Never post sensitive information to public websites or the media.
-IDENTIFICATION AND AUTHENTICATION (IA)
+### IDENTIFICATION AND AUTHENTICATION (IA)
 The Identification and Authentication (IA) domain focuses on the roles within your organization. It synergizes with the AC by ensuring that access to all systems and networks is traceable for reporting and accountability.
 
 #### 2.1. IA.L1-3.5.1
@@ -71,7 +71,7 @@ Authenticate (or verify) the identities of those users, processes, or devices, a
 
 ##### Solution Description
 All computer devices require a username/password. All devices have a PIN (including company cell phones) to access. Lockout occurs within 20 minutes if not used.
-Media Protection (MP)
+### Media Protection (MP)
 Media Protection focuses on identifying, tracking and ongoing maintenance of media. It also includes policies about protection, data sanitation and acceptable transportation.
 
 #### 3.1. MP.L1-3.8.3
@@ -81,7 +81,7 @@ Sanitize or destroy information system media containing Federal Contract Informa
 
 ##### Solution Description
 When getting rid of any company devices, work with an IT professional to destroy data (even if "deleted"). Shred documents & CD's before you get rid of them.
-PHYSICAL PROTECTION
+### PHYSICAL PROTECTION
 Physical protection is often an overlooked domain for many organizations. Sure, most places implement a sign-in process, requiring card reader identification and access to certain portions of their location. Yet, not every organization supervises its visitors throughout their entire stay. PE helps organizations with that.
 
 #### 4.1. PE.L1-3.10.1
@@ -115,7 +115,7 @@ Control and manage physical access devices.
 
 ##### Solution Description
 When an employee leaves the company, take their keys. Lock windows. Ensure your computer and documents are locked. Reduce access of keys and security systems to only who needs access.
-SYSTEM AND COMMUNICATION PROTECTION
+### SYSTEM AND COMMUNICATION PROTECTION
 Communication is an integral part of every organization. That communication between employees needs to be secure so that no bad actor may eavesdrop and record sensitive data. The System and Communication Protection (SC) domain focuses on the implementation of boundary level defense on an organizational communication level.
 
 #### 5.1. SC.L1-3.13.1
